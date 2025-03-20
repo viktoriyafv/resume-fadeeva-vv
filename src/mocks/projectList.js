@@ -66,8 +66,8 @@ const projectList = [
     about:
       "Выполнен в экосистеме React, с синтаксисом JSX, работа с компонентами, использование моков для имитации работы с данными, использован подход CSS-in-JS",
     image: "https://i.ibb.co/BH2vK3bx/fermer-shop.png",
-    site: "https://67da84f14a702e000848bdda--react-project-academy-fv.netlify.app/",
-    github: "https://github.com/viktoriyafv/react-project-academy",
+    site: "https://67dbdf07112c506eafff1ca8--react-project-fadeeva-ff.netlify.app/order",
+    github: "https://github.com/viktoriyafv/react-project-academy-2",
   },
 ];
 
